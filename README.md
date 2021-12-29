@@ -1,8 +1,8 @@
 ## C++ Playground
-A basic C++ program making use of user input, macro definitions and basic object-oriented programming principles.
+A basic C++ program making use of user inputs, macro definitions and basic object-oriented programming principles.
 
 ## Installation
-1. Insure C++ is installed on your machine.
+1. Ensure C++ is installed on your machine.
 2. Clone the repo:
 ```
 git clone https://github.com/codecventer/cpp-playground.git
