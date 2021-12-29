@@ -1,8 +1,5 @@
 ## C++ Playground
-A basic C++ program making use of user input, macro definitions and basic object-oriented programming.
-
-## Motivation
-I wanted to write program that makes use of my C++ learnings.
+A basic C++ program making use of user input, macro definitions and basic object-oriented programming principles.
 
 ## Installation
 1. Insure C++ is installed on your machine.
